@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\leetcode\\LeetCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF5463-DDBB-4E57-93B0-5C0660A99530}|LeetCode.csproj|c:\\projects\\leetcode\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF5463-DDBB-4E57-93B0-5C0660A99530}|LeetCode.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF5463-DDBB-4E57-93B0-5C0660A99530}|LeetCode.csproj|c:\\projects\\leetcode\\leetcode\\removeelement\\removeelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF5463-DDBB-4E57-93B0-5C0660A99530}|LeetCode.csproj|solutionrelative:removeelement\\removeelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF5463-DDBB-4E57-93B0-5C0660A99530}|LeetCode.csproj|c:\\projects\\leetcode\\leetcode\\mergesortedarray\\mergesortedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF5463-DDBB-4E57-93B0-5C0660A99530}|LeetCode.csproj|solutionrelative:mergesortedarray\\mergesortedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveElement.cs",
+              "DocumentMoniker": "C:\\Projects\\leetcode\\LeetCode\\RemoveElement\\RemoveElement.cs",
+              "RelativeDocumentMoniker": "RemoveElement\\RemoveElement.cs",
+              "ToolTip": "C:\\Projects\\leetcode\\LeetCode\\RemoveElement\\RemoveElement.cs",
+              "RelativeToolTip": "RemoveElement\\RemoveElement.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAhwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:38:02.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MergeSortedArray.cs",
+              "DocumentMoniker": "C:\\Projects\\leetcode\\LeetCode\\MergeSortedArray\\MergeSortedArray.cs",
+              "RelativeDocumentMoniker": "MergeSortedArray\\MergeSortedArray.cs",
+              "ToolTip": "C:\\Projects\\leetcode\\LeetCode\\MergeSortedArray\\MergeSortedArray.cs",
+              "RelativeToolTip": "MergeSortedArray\\MergeSortedArray.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADgvwwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T02:51:01.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\leetcode\\LeetCode\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\leetcode\\LeetCode\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T02:49:50.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
